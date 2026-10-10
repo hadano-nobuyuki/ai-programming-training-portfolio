@@ -60,7 +60,8 @@ flowchart TD
 
     Step1 --> Step2 --> Step3
 ```
-    ---
+
+---
 
 ### 各工程の詳細と指導の工夫
 
